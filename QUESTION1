@@ -1,0 +1,5 @@
+TAEGIKIMui-MacBook-Pro:20161230test taegi$ sudo echo hi there > README1
+-bash: README1: Permission denied
+TAEGIKIMui-MacBook-Pro:20161230test taegi$ sudo echo hi there >> README1
+-bash: README1: Permission denied
+
