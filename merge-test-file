@@ -4,3 +4,4 @@ new message from merge-test-2 in the first line
 New message from merge-test-2 in the first line
 git merge test
 merging from merge-test-1 to master branch 
+adding a message file merge-test-1 in the last line
